@@ -1,6 +1,6 @@
 # Nicolas Dréno
 
-Solution architect, France. I build API and AI gateway infrastructure in Rust, and platform architecture for enterprises.
+Solution architect, France. I love to build things around APIs.
 
 CTO of [Barbacane](https://barbacane.dev/), consultant with Gluendo.
 
