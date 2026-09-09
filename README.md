@@ -38,3 +38,4 @@ I also brew beer, which is the honest reason I contribute to BeerJSON and starte
 
 - Blog: [blog.gluendo.com](https://blog.gluendo.com)
 - Barbacane: [barbacane.dev](https://barbacane.dev/)
+- Resume: [ndreno.github.io/public-cv](https://ndreno.github.io/public-cv/)
