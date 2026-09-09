@@ -32,7 +32,7 @@ I write about this, and about platform architecture, on **[blog.gluendo.com](htt
 
 Spec-driven systems, API and AI gateways, Kubernetes platform engineering, infrastructure as code, supply chain security. Rust, Go, OpenTofu, NetBox.
 
-I also brew beer, which is the honest reason I contribute to BeerJSON.
+I also brew beer, which is the honest reason I contribute to BeerJSON and started [Werb](https://werb-dev.github.io/werb/), a brewing companion app.
 
 ## Elsewhere
 
