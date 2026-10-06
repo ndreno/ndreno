@@ -6,6 +6,7 @@ Contributions to projects I don't maintain.
 
 | Project | Contribution | Since |
 | --- | --- | --- |
+| [OpenStack Ironic](https://opendev.org/openstack/ironic) | [Add checksum verification to the Redfish firmware interface update](https://review.opendev.org/c/openstack/ironic/+/1008281) (fixes [bug 2162823](https://bugs.launchpad.net/ironic/+bug/2162823)) | 2026-10 |
 | [beerjson](https://github.com/beerjson/beerjson) | [Define what goes in `beerjson.version`, prepare release 1.1.0](https://github.com/beerjson/beerjson/pull/251) | 2026-09 |
 | [libinjection](https://github.com/libinjection/libinjection) | [Out-of-bounds read in `htmlencode_startswith` on input ending in an incomplete HTML entity](https://github.com/libinjection/libinjection/issues/90) (issue) | 2026-09 |
 | [photoview](https://github.com/photoview/photoview) | [Configure the periodic scan interval from the environment](https://github.com/photoview/photoview/pull/1493) | 2026-09 |
