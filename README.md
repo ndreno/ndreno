@@ -28,6 +28,8 @@ I write about this, and about platform architecture, on **[blog.gluendo.com](htt
 - **[terraform-provider-netbox](https://github.com/e-breuninger/terraform-provider-netbox)**: description and comments on `netbox_device_type`.
 - **[rke2-charts](https://github.com/rancher/rke2-charts)**: Cilium 1.20.0.
 
+All of them, done and in progress: **[CONTRIBUTIONS.md](https://github.com/ndreno/ndreno/blob/main/CONTRIBUTIONS.md)**.
+
 ## Interests
 
 Spec-driven systems, API and AI gateways, Kubernetes platform engineering, infrastructure as code, supply chain security. Rust, Go, OpenTofu, NetBox.
