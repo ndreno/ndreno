@@ -11,13 +11,13 @@ Contributions to projects I don't maintain.
 | [libinjection](https://github.com/libinjection/libinjection) | [Out-of-bounds read in `htmlencode_startswith` on input ending in an incomplete HTML entity](https://github.com/libinjection/libinjection/issues/90) (issue) | 2026-09 |
 | [photoview](https://github.com/photoview/photoview) | [Configure the periodic scan interval from the environment](https://github.com/photoview/photoview/pull/1493) | 2026-09 |
 | [libinjectionrs](https://github.com/saarw/libinjectionrs) | [Differential test against the C library, and the four fixes it surfaces](https://github.com/saarw/libinjectionrs/pull/1) | 2026-09 |
-| [suse-edge/charts](https://github.com/suse-edge/charts) | [metal3: ironic-dnsmasq expects `snponly-*.efi` but the image ships `snp-*.efi`](https://github.com/suse-edge/charts/issues/255) (issue) | 2026-06 |
 | [typify](https://github.com/oxidecomputer/typify) | [Preserve multi-type `type` unions when a schema has subschemas](https://github.com/oxidecomputer/typify/pull/1001) | 2026-04 |
 
 ## Done
 
 | Project | Contribution | Date |
 | --- | --- | --- |
+| [suse-edge/charts](https://github.com/suse-edge/charts) | [metal3: ironic-dnsmasq expects `snponly-*.efi` but the image ships `snp-*.efi`](https://github.com/suse-edge/charts/issues/255) (issue, fixed in chart 0.16.0) | 2026-10 |
 | [beerjson](https://github.com/beerjson/beerjson) | [Fix fluoride, add the wheat culture type, clarify `timing.time`](https://github.com/beerjson/beerjson/pull/250) | 2026-09 |
 | [beerjson](https://github.com/beerjson/beerjson) | [Close 9 of 13 `allOf` types to unknown keys, fix the BeerXML importer](https://github.com/beerjson/beerjson/pull/245) | 2026-08 |
 | [beerjson](https://github.com/beerjson/beerjson) | [Make the npm package usable and shrink the published tarball](https://github.com/beerjson/beerjson/pull/244) | 2026-08 |
