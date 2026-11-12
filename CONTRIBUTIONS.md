@@ -6,9 +6,9 @@ Contributions to projects I don't maintain.
 
 | Project | Contribution | Since |
 | --- | --- | --- |
+| [beerjson](https://github.com/beerjson/beerjson) | [3.1: vessel diameters, foundation volume, and four more water ions](https://github.com/beerjson/beerjson/issues/277), [3.1: wort clarity and krausen handling on the fermentation procedure](https://github.com/beerjson/beerjson/issues/279) (issues) | 2026-11 |
 | [OpenStack Ironic](https://opendev.org/openstack/ironic) | [Add checksum verification to the Redfish firmware interface update](https://review.opendev.org/c/openstack/ironic/+/1008281) (fixes [bug 2162823](https://bugs.launchpad.net/ironic/+bug/2162823)) | 2026-10 |
-| [beerjson](https://github.com/beerjson/beerjson) | [Define what goes in `beerjson.version`, prepare release 1.1.0](https://github.com/beerjson/beerjson/pull/251) | 2026-09 |
-| [libinjection](https://github.com/libinjection/libinjection) | [Out-of-bounds read in `htmlencode_startswith` on input ending in an incomplete HTML entity](https://github.com/libinjection/libinjection/issues/90) (issue) | 2026-09 |
+| [MCP specification](https://github.com/modelcontextprotocol/modelcontextprotocol) | [Lost-response retry on a mutating `tools/call`: HTTP idempotency prior art, and a retry-identity SEP to co-draft](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/3394#issuecomment-5868148848) (discussion) | 2026-09 |
 | [photoview](https://github.com/photoview/photoview) | [Configure the periodic scan interval from the environment](https://github.com/photoview/photoview/pull/1493) | 2026-09 |
 | [libinjectionrs](https://github.com/saarw/libinjectionrs) | [Differential test against the C library, and the four fixes it surfaces](https://github.com/saarw/libinjectionrs/pull/1) | 2026-09 |
 | [typify](https://github.com/oxidecomputer/typify) | [Preserve multi-type `type` unions when a schema has subschemas](https://github.com/oxidecomputer/typify/pull/1001) | 2026-04 |
@@ -17,6 +17,11 @@ Contributions to projects I don't maintain.
 
 | Project | Contribution | Date |
 | --- | --- | --- |
+| [serde-saphyr](https://github.com/bourumir-wyngs/serde-saphyr) | [Infer signed `.nan` spellings as strings during implicit inference](https://github.com/bourumir-wyngs/serde-saphyr/pull/272) | 2026-11 |
+| [serde-saphyr](https://github.com/bourumir-wyngs/serde-saphyr) | Untyped scalar resolution: [leading-zero decimals](https://github.com/bourumir-wyngs/serde-saphyr/issues/225), [upper-case radix prefixes](https://github.com/bourumir-wyngs/serde-saphyr/issues/266), [null-like mapping keys](https://github.com/bourumir-wyngs/serde-saphyr/issues/267), [signed `.nan`](https://github.com/bourumir-wyngs/serde-saphyr/issues/271) (issues, fixed) | 2026-11 |
+| [libinjection](https://github.com/libinjection/libinjection) | [Out-of-bounds read in `htmlencode_startswith` on input ending in an incomplete HTML entity](https://github.com/libinjection/libinjection/issues/90) (issue, fixed) | 2026-11 |
+| [beerjson](https://github.com/beerjson/beerjson) | [Define what goes in `beerjson.version`, prepare release 1.1.0](https://github.com/beerjson/beerjson/pull/251) | 2026-10 |
+| [resonus](https://github.com/juananzzz/resonus) | [Volume buttons don't change the volume in jukebox mode](https://github.com/juananzzz/resonus/issues/270) (issue, fixed) | 2026-10 |
 | [suse-edge/charts](https://github.com/suse-edge/charts) | [metal3: ironic-dnsmasq expects `snponly-*.efi` but the image ships `snp-*.efi`](https://github.com/suse-edge/charts/issues/255) (issue, fixed in chart 0.16.0) | 2026-10 |
 | [beerjson](https://github.com/beerjson/beerjson) | [Fix fluoride, add the wheat culture type, clarify `timing.time`](https://github.com/beerjson/beerjson/pull/250) | 2026-09 |
 | [beerjson](https://github.com/beerjson/beerjson) | [Close 9 of 13 `allOf` types to unknown keys, fix the BeerXML importer](https://github.com/beerjson/beerjson/pull/245) | 2026-08 |
